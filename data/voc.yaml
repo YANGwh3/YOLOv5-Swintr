@@ -1,0 +1,6 @@
+train: D://data/train_8/images
+val: D://data/val_1/images
+nc: 9
+names: ['Ursus thibetanus','lynx rufus','odocoileus hemionus','procyon lotor',
+        'tamiasciurus hudsonicus','vulpes vulpes','Elaphodus cephalophus','Macaca mulatta','Prionailurus bengalensis']
+
